@@ -1,2 +1,11 @@
-# color-changer-card
-A fun web project that allows you to change the background color of the webpage by clicking buttons. The color changes instantly, providing an interactive experience.
+# Color Changer
+
+Welcome to the **Color Changer** repository! 
+
+## 🚀 Live Demo
+
+You can check out the live demo of this project by clicking the link below:
+
+🔗 [Live Demo](https://khalid-randhawa.web.app/apps-projects/color-changer.html)
+
+---
